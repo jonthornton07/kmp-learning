@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "type": "android-app",
+            "name": "Android-app configuration",
+            "module": "KMP_Notes.KMP_Notes"
+        },
+    ]
+}

@@ -5,3 +5,7 @@ This project is a public repository that I am using to learn KMP. I used [Claude
 <br>
 
 If you are interested in learning look at the [kmp-learning-plan.md](/docs/learningPlan/kmp-learning-plan.md). Enjoy!
+
+### External Links to look at
+
+- (KMP Android Docs)[https://developer.android.com/kotlin/multiplatform]
