@@ -1,3 +1,4 @@
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 pluginManagement {
     repositories {
         google()
@@ -14,5 +15,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "KMP_Notes"
-include(":KMP_Notes")
+include(":androidApp")
 include(":shared")
